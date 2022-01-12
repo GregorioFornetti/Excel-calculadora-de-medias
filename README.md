@@ -18,12 +18,12 @@ Após fazer isso, clique em "Download" e o arquivo necessário para utilizar o p
 ### Habilitar edição
 Ao baixar o arquivo, abra-o e habilite a edição para que seja possível utilizar o programa. Para habilitar a edição, clique em "Habilitar edição" que aparece na aba superior do excel em amarelo.
 
-![Imagem habilitando modo de edição]()
+![Imagem habilitando modo de edição](https://raw.githubusercontent.com/GregorioFornetti/Excel-calculadora-de-medias/main/tutorial/editadas/3.png)
 
 ### Planilhas
 No arquivo disponibilizado existem três planilhas
 
-![Imagem das três abas de planilhas]()
+![Imagem das três abas de planilhas](https://raw.githubusercontent.com/GregorioFornetti/Excel-calculadora-de-medias/main/tutorial/editadas/4.png)
 
 1- Na primeira planilha, chamada "Menu", existem os botões para acionar os formulários para criação/exclusão de matérias ou notas
 
