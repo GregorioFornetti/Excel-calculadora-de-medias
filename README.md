@@ -16,7 +16,7 @@ Após fazer isso, clique em "Download" e o arquivo necessário para utilizar o p
 ## Introdução
 
 ### Habilitar edição
-Ao baixar o arquivo, abra-o e habilite a edição para que seja possível utilizar o programa.
+Ao baixar o arquivo, abra-o e habilite a edição para que seja possível utilizar o programa. Para habilitar a edição, clique em "Habilitar edição" que aparece na aba superior do excel em amarelo.
 
 ![Imagem habilitando modo de edição]()
 
@@ -35,7 +35,7 @@ No arquivo disponibilizado existem três planilhas
 
 ### Preenchendo o formulário
 
-Para criar uma matéria, é necessário selecionar a planilha "Menu" e clicar no botão de criar matéria. Ao fazer isso, um formulário aparecerá.
+Para criar uma matéria, é necessário selecionar a planilha "Menu" e clicar no botão de criar nova matéria. Ao fazer isso, um formulário aparecerá.
 
 ![Formulário para criar uma matéria]()
 
@@ -45,9 +45,6 @@ Segue abaixo um formulário de exemplo preenchido:
 ![Formulário de exemplo de criação de matéria preenchido]()
 
 Nesse exemplo de formulário, estamos criando uma matéria chamada "Matemática" que possui 3 tipos de notas: provas (peso 2), trabalhos (peso 4) e testes (peso 3).
-Com esses tipos de notas, a média final será calculada da seguinte forma:
-
-![Imagem da fórmula para cálculo da média final da matéria de exemplo]()
 
 Depois que preecher todo formulário, basta clicar no botão "Criar matéria" e se tudo tiver corretamente preechido a matéria será criada (se ocorrer um erro, uma mensagem aparecerá informando o que deve ser corrigido).
 
